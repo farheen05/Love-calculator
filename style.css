@@ -1,0 +1,29 @@
+body{
+    background-image: url("love.jpg");
+    background-size: cover;
+   position: relative;
+}
+.card{
+   position: absolute;
+   top: 250px;
+   left: 360px;
+
+}
+.card-header{
+    background-color: #c70039;
+    color: #fff;
+    font-weight: bold;
+    
+}
+.card-footer{
+    background-color: #c70039;
+    color: #fff;
+    font-weight: bold;
+}
+.btn{
+    background-color: #e36387;
+    color: #fff;
+}
+.btn:hover{
+    background-color: #c70039;
+}
